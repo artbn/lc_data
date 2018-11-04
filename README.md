@@ -4,7 +4,7 @@ JSONs including all messages in the main thread of r/livecounting
 
 **all_updates** includes, as the name implies, all updates
 
-while **comments_only** only includes updates with at least 1 letter in their body, the update structure is also minified to 'author,id,body,*(update_num)*'
+while **comments_only** only includes updates with at least 1 letter in their body, the update structure is also minified to 'author,id,body,*(update_num)*'  
 *(update_num)* is an artifact of the method used to generate this, it is included so the order of updates is more easily detectable
 
 
