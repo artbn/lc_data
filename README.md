@@ -9,3 +9,5 @@ while **comments_only** only includes updates with at least 1 letter in their bo
 
 
 Note that these get updated once 100000 further updates are reached, so there may be up to 99999 updates missing (potentially more as these are currently manually updated).
+
+**comments_only** is only rarely updated and may be a lot more out of date than **all_updates**
